@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: master
-    upstream: NobyDa:Pv
+    upstream: NobyDa:master
     mergeMethod: hardreset
